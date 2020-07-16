@@ -1,4 +1,4 @@
-### FullStack Developer|ReactJS|ReactNative|Nodejs|Express|MongoDB|JavaScript
+### FullStack Developer | ReactJS | ReactNative | Nodejs | Express | MongoDB | JavaScript
 
 <!--
 **eshaansinghparihar/eshaansinghparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
